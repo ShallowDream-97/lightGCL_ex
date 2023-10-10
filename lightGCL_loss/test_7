@@ -1,0 +1,317 @@
+Data loaded.
+user_num: 29601 item_num: 24734 lambda_1: 1e-07 lambda_2: 1e-05 temp: 0.3 q: 5
+Performing SVD...
+SVD done.
+Adj matrix normalized.
+Test data processed.
+Unpop Test data processed.
+3635 1472 1974
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.6841, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(27.6468, device='cuda:4', grad_fn=<AddBackward0>)
+3608 1292 1922
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.6793, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.6302, device='cuda:4', grad_fn=<AddBackward0>)
+3759 1324 1886
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.6719, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(27.1949, device='cuda:4', grad_fn=<AddBackward0>)
+3662 1327 1843
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.6647, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.6533, device='cuda:4', grad_fn=<AddBackward0>)
+3695 1322 1810
+SSL_loss: tensor(0.0092, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.6491, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.6178, device='cuda:4', grad_fn=<AddBackward0>)
+3441 1391 1973
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.6304, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.5102, device='cuda:4', grad_fn=<AddBackward0>)
+3620 1371 1935
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.6070, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.9557, device='cuda:4', grad_fn=<AddBackward0>)
+3375 1245 2018
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.5778, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(25.8021, device='cuda:4', grad_fn=<AddBackward0>)
+3349 1337 1994
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.5269, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(25.9127, device='cuda:4', grad_fn=<AddBackward0>)
+3438 1353 1966
+SSL_loss: tensor(0.0091, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.4968, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.1736, device='cuda:4', grad_fn=<AddBackward0>)
+3612 1393 1968
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.4170, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.9172, device='cuda:4', grad_fn=<AddBackward0>)
+3184 1293 2002
+SSL_loss: tensor(0.0089, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.3840, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(24.9782, device='cuda:4', grad_fn=<AddBackward0>)
+3597 1353 1949
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.2846, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.4657, device='cuda:4', grad_fn=<AddBackward0>)
+3493 1408 2118
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.1901, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.8315, device='cuda:4', grad_fn=<AddBackward0>)
+3569 1369 2048
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(26.0700, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.5518, device='cuda:4', grad_fn=<AddBackward0>)
+3600 1255 1815
+SSL_loss: tensor(0.0091, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(25.9535, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(25.1977, device='cuda:4', grad_fn=<AddBackward0>)
+3700 1357 1928
+SSL_loss: tensor(0.0097, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(25.8027, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(26.2216, device='cuda:4', grad_fn=<AddBackward0>)
+3562 1312 1946
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(25.6702, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(25.4488, device='cuda:4', grad_fn=<AddBackward0>)
+3664 1215 1954
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(25.4668, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(25.2453, device='cuda:4', grad_fn=<AddBackward0>)
+3504 1305 1933
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(25.1991, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(24.6212, device='cuda:4', grad_fn=<AddBackward0>)
+3405 1299 2001
+SSL_loss: tensor(0.0092, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(25.0134, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(24.2923, device='cuda:4', grad_fn=<AddBackward0>)
+3558 1308 1958
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(24.7121, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(24.3251, device='cuda:4', grad_fn=<AddBackward0>)
+3719 1410 1982
+SSL_loss: tensor(0.0098, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(24.4572, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(25.0633, device='cuda:4', grad_fn=<AddBackward0>)
+3473 1438 2011
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(24.0291, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(23.9473, device='cuda:4', grad_fn=<AddBackward0>)
+3686 1397 2025
+SSL_loss: tensor(0.0098, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(23.6303, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(24.0597, device='cuda:4', grad_fn=<AddBackward0>)
+3887 1412 1945
+SSL_loss: tensor(0.0098, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(23.2629, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(23.9843, device='cuda:4', grad_fn=<AddBackward0>)
+3505 1389 2021
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(22.9303, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(22.6036, device='cuda:4', grad_fn=<AddBackward0>)
+3677 1339 2098
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(22.4846, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(22.6863, device='cuda:4', grad_fn=<AddBackward0>)
+3507 1242 1810
+SSL_loss: tensor(0.0091, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(22.0065, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(20.3101, device='cuda:4', grad_fn=<AddBackward0>)
+3433 1369 1980
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(21.5646, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(20.6062, device='cuda:4', grad_fn=<AddBackward0>)
+3566 1387 2084
+SSL_loss: tensor(0.0097, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(21.0553, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(20.8702, device='cuda:4', grad_fn=<AddBackward0>)
+3625 1327 1951
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(20.2553, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(19.3947, device='cuda:4', grad_fn=<AddBackward0>)
+3488 1271 1911
+SSL_loss: tensor(0.0092, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(19.6293, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(17.9296, device='cuda:4', grad_fn=<AddBackward0>)
+3547 1367 1798
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(19.1586, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(17.5888, device='cuda:4', grad_fn=<AddBackward0>)
+3556 1462 1950
+SSL_loss: tensor(0.0097, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(18.4269, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(17.5131, device='cuda:4', grad_fn=<AddBackward0>)
+3639 1383 1999
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(17.7087, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(16.7567, device='cuda:4', grad_fn=<AddBackward0>)
+3620 1402 1992
+SSL_loss: tensor(0.0097, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(16.8608, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(15.8486, device='cuda:4', grad_fn=<AddBackward0>)
+3290 1381 2053
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(16.7633, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(15.3672, device='cuda:4', grad_fn=<AddBackward0>)
+3616 1413 2010
+SSL_loss: tensor(0.0097, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(15.7576, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(14.6831, device='cuda:4', grad_fn=<AddBackward0>)
+3548 1405 1970
+SSL_loss: tensor(0.0098, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(15.0338, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(13.6595, device='cuda:4', grad_fn=<AddBackward0>)
+3552 1421 1996
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(13.9480, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(12.6697, device='cuda:4', grad_fn=<AddBackward0>)
+3443 1408 2068
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(13.9998, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(12.7556, device='cuda:4', grad_fn=<AddBackward0>)
+3637 1324 1990
+SSL_loss: tensor(0.0097, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(13.2615, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(11.8889, device='cuda:4', grad_fn=<AddBackward0>)
+3694 1298 1917
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(12.2227, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(10.5942, device='cuda:4', grad_fn=<AddBackward0>)
+3521 1339 2037
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(11.8330, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(10.5028, device='cuda:4', grad_fn=<AddBackward0>)
+3419 1369 2038
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(11.3090, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(9.9797, device='cuda:4', grad_fn=<AddBackward0>)
+3599 1359 1944
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(10.5110, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(9.1787, device='cuda:4', grad_fn=<AddBackward0>)
+3741 1326 1865
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(10.5533, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(9.0708, device='cuda:4', grad_fn=<AddBackward0>)
+3530 1350 1994
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(9.2885, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(8.1714, device='cuda:4', grad_fn=<AddBackward0>)
+3530 1373 1912
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(9.4328, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(8.2296, device='cuda:4', grad_fn=<AddBackward0>)
+3668 1348 1933
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(9.2063, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(8.0836, device='cuda:4', grad_fn=<AddBackward0>)
+3600 1339 1828
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(8.5884, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(7.2562, device='cuda:4', grad_fn=<AddBackward0>)
+3371 1355 2094
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(8.3484, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(7.5826, device='cuda:4', grad_fn=<AddBackward0>)
+3667 1396 2016
+SSL_loss: tensor(0.0098, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(7.7652, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.9409, device='cuda:4', grad_fn=<AddBackward0>)
+3371 1352 1992
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(7.9447, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.9782, device='cuda:4', grad_fn=<AddBackward0>)
+3335 1290 2047
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(7.3653, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.4059, device='cuda:4', grad_fn=<AddBackward0>)
+3710 1332 1949
+SSL_loss: tensor(0.0098, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(7.3936, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.5279, device='cuda:4', grad_fn=<AddBackward0>)
+3540 1316 1964
+SSL_loss: tensor(0.0092, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(7.2526, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.3731, device='cuda:4', grad_fn=<AddBackward0>)
+3540 1415 1967
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(7.7465, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.9749, device='cuda:4', grad_fn=<AddBackward0>)
+3418 1330 2062
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.7756, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.0560, device='cuda:4', grad_fn=<AddBackward0>)
+3570 1353 2027
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.6964, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(6.0320, device='cuda:4', grad_fn=<AddBackward0>)
+3442 1334 2124
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.4809, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.8876, device='cuda:4', grad_fn=<AddBackward0>)
+3390 1344 1963
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.4424, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.6637, device='cuda:4', grad_fn=<AddBackward0>)
+3656 1315 1962
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.3708, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.5972, device='cuda:4', grad_fn=<AddBackward0>)
+3580 1301 2000
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.7965, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.9981, device='cuda:4', grad_fn=<AddBackward0>)
+3650 1369 1930
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.5468, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.7853, device='cuda:4', grad_fn=<AddBackward0>)
+3563 1407 2067
+SSL_loss: tensor(0.0099, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.2361, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.6534, device='cuda:4', grad_fn=<AddBackward0>)
+3471 1333 1969
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.2843, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.5150, device='cuda:4', grad_fn=<AddBackward0>)
+3621 1379 1895
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(5.8628, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.1822, device='cuda:4', grad_fn=<AddBackward0>)
+3477 1351 2050
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.2497, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.5041, device='cuda:4', grad_fn=<AddBackward0>)
+3416 1316 1992
+SSL_loss: tensor(0.0093, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.2197, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.4621, device='cuda:4', grad_fn=<AddBackward0>)
+3441 1376 2014
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(5.8211, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.1839, device='cuda:4', grad_fn=<AddBackward0>)
+3572 1336 1941
+SSL_loss: tensor(0.0095, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.2684, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.4876, device='cuda:4', grad_fn=<AddBackward0>)
+3745 1369 1933
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.0054, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.3016, device='cuda:4', grad_fn=<AddBackward0>)
+3591 1283 1904
+SSL_loss: tensor(0.0094, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(5.6747, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(4.9491, device='cuda:4', grad_fn=<AddBackward0>)
+3408 1321 1840
+SSL_loss: tensor(0.0091, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(6.0640, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.0927, device='cuda:4', grad_fn=<AddBackward0>)
+3537 1337 2004
+SSL_loss: tensor(0.0096, device='cuda:4', grad_fn=<MulBackward0>)
+Loss: tensor(5.7556, device='cuda:4', grad_fn=<AddBackward0>)
+Loss_total tensor(5.1156, device='cuda:4', grad_fn=<AddBackward0>)
+3468 1344 1845
+SSL_loss: 
